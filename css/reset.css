@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    margin: 20px 0px 0px 600px;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(rgb(0, 238, 255), rgb(71, 8, 120));
+}
+
+label {
+    text-align: left;
+    font-size: 24px;
+    font-weight: bold;
+    width: 300px;
+    display: inline-block;
+}
+
+legend {
+    width: 650px;
+    font-size: 20px;
+    text-align: center;
+    color: #030303;
+    border-top: 50px solid rgba(211, 54, 250, 0.568);
+}
+
+input {
+    padding: 15px;
+    font-size: 25px;
+    border-radius: 15px;
+    text-align: center;
+    width: 60%;
+
+}
+
+select {
+    font-size: 20px;
+}
+
+#submit {
+    font-weight: bold;
+    width: 200px;
+    text-align: center;
+    color: #fcfcff;
+    background: #0041c2;
+}
+
+#reset {
+    font-weight: bold;
+    width: 200px;
+    text-align: center;
+    color: #00008b;
+}
+
+#para1 {
+    font-size: 20px;
+    font-family: inherit;
+}
+
+#para2 {
+    font-size: 25px;
+}
+
+fieldset {
+    background-color: #e3f9a656
+}

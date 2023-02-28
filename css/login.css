@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    margin: 50px 700px;
+}
+
+body {
+    background: url(../images/nYSH3Pc.jpg);
+    background-size: 100%;
+}
+
+#submit {
+    padding: 20px;
+    width: 200px;
+    color: white;
+    background: #004225;
+}
+
+input {
+    padding: 18px;
+    border-radius: 15px;
+    font-size: 25px;
+    text-align: center;
+    width: 70%;
+}
+
+legend {
+    text-align: center;
+}
+
+h2 {
+    font-size: 50px;
+    text-align: left;
+}
+
+
+label {
+    text-align: left;
+    font-size: 30px;
+    font-weight: bold;
+    display: inline-block;
+}
+
+input[type=submit] {
+    background: #15317E;
+    color: aliceblue;
+    font-weight: bold;
+}
+
+p {
+    font-size: 50px;
+}
+
+a {
+    font-size: 20px;
+    color: blue;
+}
+
+fieldset {
+    padding: 20px 20px 50px 150px;
+    background-color: rgba(74, 117, 235, 0.384);
+}
+
+.forget {
+    font-size: 25px;
+    color: yellow;
+}
